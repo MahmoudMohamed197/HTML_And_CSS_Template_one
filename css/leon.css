@@ -64,6 +64,7 @@ body {
   }
   .special-heading p {
     font-size: 18px;
+    margin-top: -20px;
   }
 }
 /* End Componenets */
@@ -152,7 +153,6 @@ body {
   padding-left: 25px;
 }
 /* End Header */
-
 /* Start Landing */
 .landing {
   background-image: url("../images/landing.jpg");
@@ -207,7 +207,7 @@ body {
 .features .container .feat p {
   line-height: 1.8;
   font-size: 17px;
-  color: var(--background-color);
+  color: #777;
 }
 /* End Features */
 /* Start Services */
